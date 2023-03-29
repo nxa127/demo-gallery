@@ -1,0 +1,23 @@
+# Demo Gallery
+
+This is a sample project of gallery created with Vite and React.
+
+## Getting Started
+
+To get started, simply clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/nxa127/demo-gallery.git
+cd demo-gallery
+npm install
+npm run dev
+```
+
+## ENV
+
+This is env for testing
+
+```bash
+VITE_UNSPLASH_URL=https://api.unsplash.com
+VITE_UNSPLASH_ACCESS_KEY=6pTrLXO1c0QLiJy68tu0Qd4a5_3NoEDEnjlbOXi5J7I
+```
